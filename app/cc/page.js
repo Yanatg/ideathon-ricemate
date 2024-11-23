@@ -19,7 +19,7 @@ return (
   <div className="min-h-screen bg-white font-sans">
     <header className="sticky top-0 z-10 bg-white p-4 border-b">
       <div className="flex items-center justify-between">
-        <span className="text-sm">Rice mate</span>
+        <span className="text-sm">Rice maid</span>
         <span className="bg-yellow-400 text-xs px-2 py-1 rounded-full">
           FAQ
         </span>
